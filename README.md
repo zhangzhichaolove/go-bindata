@@ -5,6 +5,7 @@
 
 ```shell
 export GOPROXY=https://proxy.golang.com.cn,direct
+export GOPROXY=https://mirrors.aliyun.com/goproxy/
 go get github.com/zhangzhichaolove/go-bindata
 go install github.com/zhangzhichaolove/go-bindata/v1/go-bindata
 go install github.com/zhangzhichaolove/go-bindata/...@latest
