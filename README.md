@@ -1,5 +1,13 @@
 # 由于原项目太久没维护，故基于原作者代码进行拓展。
 
+
+## 安装
+
+```shell
+go install github.com/zhangzhichaolove/go-bindata/v1/go-bindata
+go install github.com/zhangzhichaolove/go-bindata/...@latest
+```
+
 ## bindata
 [![Build Status](https://cloud.drone.io/api/badges/go-bindata/go-bindata/status.svg)](https://cloud.drone.io/go-bindata/go-bindata)
 [![Go Report Card](https://goreportcard.com/badge/github.com/go-bindata/bindata)](https://goreportcard.com/report/github.com/go-bindata/bindata)
