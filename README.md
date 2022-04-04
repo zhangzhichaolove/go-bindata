@@ -4,6 +4,8 @@
 ## 安装
 
 ```shell
+export GOPROXY=https://proxy.golang.com.cn,direct
+go get github.com/zhangzhichaolove/go-bindata
 go install github.com/zhangzhichaolove/go-bindata/v1/go-bindata
 go install github.com/zhangzhichaolove/go-bindata/...@latest
 ```
