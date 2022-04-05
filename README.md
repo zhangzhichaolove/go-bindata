@@ -6,9 +6,10 @@
 ```shell
 export GOPROXY=https://proxy.golang.com.cn,direct
 export GOPROXY=https://mirrors.aliyun.com/goproxy/
-go get github.com/zhangzhichaolove/go-bindata
-go install github.com/zhangzhichaolove/go-bindata/v1/go-bindata
-go install github.com/zhangzhichaolove/go-bindata/...@latest
+go get github.com/zhangzhichaolove/go-bindata/v2/...
+go get github.com/zhangzhichaolove/go-bindata/v2/@v2.0.0
+go install github.com/zhangzhichaolove/go-bindata/v2/go-bindata
+go install github.com/zhangzhichaolove/go-bindata/v2/...@latest
 ```
 
 ## bindata
