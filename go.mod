@@ -1,4 +1,4 @@
-module github.com/zhangzhichaolove/go-bindata/v1
+module github.com/zhangzhichaolove/go-bindata/v2
 
 go 1.18
 

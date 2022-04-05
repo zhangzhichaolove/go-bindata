@@ -12,7 +12,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/zhangzhichaolove/go-bindata/v1"
+	"github.com/zhangzhichaolove/go-bindata/v2"
 )
 
 func main() {
